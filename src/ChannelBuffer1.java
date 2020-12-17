@@ -22,5 +22,6 @@ public class ChannelBuffer1 {
         } catch (IOException e) {
             e.printStackTrace();
         }
+        int a = 0;
     }
 }
