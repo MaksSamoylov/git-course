@@ -3,6 +3,7 @@ package multithreading;
 public class Employee {
     public String name;
     public int id;
+    public int id2;
     public String department;
     private double salary;
 
